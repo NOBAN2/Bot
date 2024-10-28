@@ -19,7 +19,7 @@ import psutil
 loop = asyncio.get_event_loop()
 
 TOKEN = '7537216342:AAG_D1G8yTY43-_FXTNb9vIhPxx0MiG6zL0'
-MONGO_URI = 'mongodb+srv://Daksh:daksh@daksh.1fznk.mongodb.net/?retryWrites=true&w=majority&appName=Daksh'
+MONGO_URI = 'mongodb+srv://sharp:sharp@sharpx.x82gx.mongodb.net/?retryWrites=true&w=majority&appName=SharpX'
 FORWARD_CHANNEL_ID = -1002444210076
 CHANNEL_ID = -1002444210076
 error_channel_id = -1002444210076
